@@ -16,4 +16,4 @@
         android:background="@drawable/crop__texture"
         android:layout_below="@id/done_cancel_bar" />
 
-</RelativeLayout><!-- From: file:/C:/Users/laewoongJang/Documents/bbr_test/Heidi/cropViewLib/src/main/res/layout/crop__activity_crop.xml -->
+</RelativeLayout><!-- From: file:/C:/2015/bbr/bbr_test/Heidi/cropViewLib/src/main/res/layout/crop__activity_crop.xml -->
