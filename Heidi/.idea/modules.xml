@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Heidi.iml" filepath="$PROJECT_DIR$/Heidi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cIndiLib/cIndiLib.iml" filepath="$PROJECT_DIR$/cIndiLib/cIndiLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cpBtnLib/cpBtnLib.iml" filepath="$PROJECT_DIR$/cpBtnLib/cpBtnLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropViewLib/cropViewLib.iml" filepath="$PROJECT_DIR$/cropViewLib/cropViewLib.iml" />
     </modules>
   </component>
 </project>
-
