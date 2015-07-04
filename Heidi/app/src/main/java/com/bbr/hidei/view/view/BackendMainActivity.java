@@ -1,4 +1,4 @@
-package com.bbr.hidei.heidi;
+package com.bbr.hidei.view.view;
 
 import android.content.Context;
 import android.content.Intent;
@@ -15,6 +15,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.bbr.hidei.heidi.R;
 
 
 public class BackendMainActivity extends ActionBarActivity {

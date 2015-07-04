@@ -10,11 +10,11 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.bbr.hidei.heidi.SplashActivity"
+            android:name="com.bbr.hidei.view.view.SplashActivity"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
             android:exported = "true"
-            android:name="com.bbr.hidei.heidi.MainActivity"
+            android:name="com.bbr.hidei.view.view.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".BackendMainActivity"
+            android:name="com.bbr.hidei.view.view.BackendMainActivity"
             android:label="@string/app_name" >
         </activity>
         <activity android:name="com.soundcloud.android.crop.CropImageActivity" />

@@ -1,4 +1,4 @@
-package com.bbr.hidei.heidi;
+package com.bbr.hidei.view.view;
 
 import android.app.Activity;
 import android.content.Context;

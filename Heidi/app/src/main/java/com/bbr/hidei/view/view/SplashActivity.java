@@ -1,8 +1,10 @@
-package com.bbr.hidei.heidi;
+package com.bbr.hidei.view.view;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.os.Handler;
+
+import com.bbr.hidei.heidi.R;
 
 
 public class SplashActivity extends Activity {

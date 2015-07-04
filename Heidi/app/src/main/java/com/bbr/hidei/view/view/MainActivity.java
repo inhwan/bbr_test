@@ -1,4 +1,4 @@
-package com.bbr.hidei.heidi;
+package com.bbr.hidei.view.view;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -12,9 +12,9 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.view.Menu;
 import android.view.View;
-import android.webkit.WebView;
 import android.widget.Toast;
 
+import com.bbr.hidei.heidi.R;
 import com.dd.CircularProgressButton;
 import com.soundcloud.android.crop.Crop;
 
@@ -70,7 +70,6 @@ public class MainActivity extends Activity {
 /*                Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
                 intent.setType("file*//**//*");
                 startActivityForResult(intent, REQ_CODE_FILE);*/
-
             }
         });
 
